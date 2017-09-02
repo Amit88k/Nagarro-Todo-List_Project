@@ -1,5 +1,5 @@
 # Nagarro-Todo-List_Project (Nodejs)
-This application allows users to keep track of tasks. These tasks include a description. Every task can be edited or deleted.
+This App lets you to organise your work in more efficient manner. By using this app you can add a todo, delete a todo or mark it as a complete. These tasks include a description. Every task can be edited or deleted. 
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -40,5 +40,33 @@ Parse incoming request bodies in a middleware before your handlers, available un
 #### res-error
 This package adds a super flexible res.error() method to express that logs an error and sends the correct JSON response to the client (https://www.npmjs.com/package/res-error).
 #### install : $ install res-error --save
+
+#### nodemon
+Nodemon is a utility that will monitor for any changes in your source and automatically restart your server. Perfect for development (https://nodemon.io/).
+#### install : npm install -g nodemon
+
+## Installing
+run the appa using the command : node index.js or nodemon index.js 
+run the app in browser as : localhost:4000
+
+## Built With
+* [JavaScript](https://www.javascript.com/) - full-fledged dynamic programming language
+* [Nodejs](https://nodejs.org/en/) - The web framework used
+* [Express](https://expressjs.com/) - Node.js web application framework
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language. 
+* [HTML](http://html.com/) - standard markup language for creating web pages and web applications.
+* [AJAX](https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started) - a set of Web development techniques using many Web technologies on the client side to create asynchronous Web applications.
+
+## Authors
+* **Amit Khandelwal**
+
+## Acknowledgments
+
+* Thanks to [Ankit Malik](https://github.com/malikankit) sir for his guidance.
+
+
+
+
+
 
 
