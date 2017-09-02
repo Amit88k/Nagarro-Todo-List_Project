@@ -58,7 +58,7 @@ run the app in browser as : localhost:4000
 * [AJAX](https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started) - a set of Web development techniques using many Web technologies on the client side to create asynchronous Web applications.
 
 ## Authors
-* **Amit Khandelwal**
+* [Amit Khandelwal](https://github.com/Amit88k)
 
 ## Acknowledgments
 
