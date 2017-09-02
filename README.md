@@ -7,13 +7,15 @@ These instructions will get you a copy of the project up and running on your loc
 ## Prerequisites
 
 ## Nodejs 
-Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, npm, is the largest ecosystem of open source libraries in the world
+Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, npm, is the largest ecosystem of open source libraries in the world (https://nodejs.org/en/).
 
 ### install Nodejs
   1. Download the Windows installer from https://nodejs.org/en/ .
   2. Run the installer (the .msi file you downloaded in the previous step.)
   3. Follow the prompts in the installer (Accept the license agreement, click the NEXT button a bunch of times and accept the default            installation settings). (see image here : http://blog.teamtreehouse.com/wp-content/uploads/2015/01/installer.png )
   4. Restart your computer. You won’t be able to run Node.js® until you restart your computer.
+  
+### npm : https://www.npmjs.com/ 
   
 ## Test it!
 Make sure you have Node and NPM installed by running simple commands to see what version of each is installed and to run a simple test program:
