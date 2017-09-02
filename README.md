@@ -1,4 +1,4 @@
-# Nagarro-Todo-List_Project (Nodejs)
+# Todo-List_Project (Nodejs)
 This App lets you to organise your work in more efficient manner. By using this app you can add a todo, delete a todo or mark it as a complete. These tasks include a description. Every task can be edited or deleted. 
 
 ## Getting Started
