@@ -25,18 +25,18 @@ To see if NPM is installed, type npm -v in Terminal. This should print NPM’s v
 ### Create a test file and run it. 
 A simple way to test that node.js works is to create a JavaScript file: name it hello.js, and just add the code console.log('Node is installed!');. To run the code simply open your command line program, navigate to the folder where you save the file and type node hello.js. This will start Node and run the code in the hello.js file. You should see the output Node is installed!.
 
-## express
+### express
 Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
-### install express : $ npm install express --save
-### API : var express = require('express')
+#### install express : $ npm install express --save
+#### API : var express = require('express')
 
-## body-parser
+### body-parser
 Parse incoming request bodies in a middleware before your handlers, available under the req.body property. Learn about the anatomy of an HTTP transaction in Node.js. This does not handle multipart bodies, due to their complex and typically large nature.
-### install body-parser : $ npm install body-parser
-### API : var bodyParser = require('body-parser')
+#### install body-parser : $ npm install body-parser
+#### API : var bodyParser = require('body-parser')
 
-## res-error
+#### res-error
 This package adds a super flexible res.error() method to express that logs an error and sends the correct JSON response to the client.
-### install : $ install res-error --save
+#### install : $ install res-error --save
 
 
