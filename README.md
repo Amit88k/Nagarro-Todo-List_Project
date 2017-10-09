@@ -47,7 +47,7 @@ Nodemon is a utility that will monitor for any changes in your source and automa
 
 ## Installing
 run the appa using the command : node index.js or nodemon index.js 
-run the app in browser as : localhost:4000
+run the app in browser as : localhost:3000
 
 ## Built With
 * [JavaScript](https://www.javascript.com/) - full-fledged dynamic programming language
