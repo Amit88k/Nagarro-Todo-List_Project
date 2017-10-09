@@ -1,0 +1,7 @@
+1. Download the soure code
+2. nagarro-Todo-List_Project -> App 
+3. 
+4. then follow the following commands in terminal 
+	-> install npm 
+	-> node index.js
+5. now in browser -> localhost:3000
