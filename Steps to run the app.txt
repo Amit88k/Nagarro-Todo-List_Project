@@ -1,5 +1,6 @@
 1. Download the soure code
-2. nagarro-Todo-List_Project -> App 
+2. inside nagarro-Todo-List_Project-master 
+	got to -> Nagarro-Todo-List_Project-master -> App 
 3. 
 4. then follow the following commands in terminal 
 	-> install npm 
