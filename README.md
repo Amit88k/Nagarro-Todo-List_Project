@@ -57,6 +57,15 @@ run the app in browser as : localhost:3000
 * [HTML](http://html.com/) - standard markup language for creating web pages and web applications.
 * [AJAX](https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started) - a set of Web development techniques using many Web technologies on the client side to create asynchronous Web applications.
 
+## Steps to Run the App
+1. Download the soure code
+2. inside nagarro-Todo-List_Project-master 
+	got to -> Nagarro-Todo-List_Project-master -> App 
+
+3. then follow the following commands in terminal 
+	-> install npm 
+	-> node index.js
+4. now in browser -> localhost:3000
 ## Authors
 * [Amit Khandelwal](https://github.com/Amit88k)
 
